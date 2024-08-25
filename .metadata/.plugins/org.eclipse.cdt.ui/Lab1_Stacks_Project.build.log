@@ -1,0 +1,10 @@
+12:08:34 **** Incremental Build of configuration Debug for project Lab1_Stacks_Project ****
+make -j7 all 
+arm-none-eabi-size   Lab1_Stacks_Project.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13164	    120	   1656	  14940	   3a5c	Lab1_Stacks_Project.elf
+Finished building: default.size.stdout
+ 
+
+12:08:34 Build Finished. 0 errors, 0 warnings. (took 304ms)
+

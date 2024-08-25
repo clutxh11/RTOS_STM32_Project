@@ -1,0 +1,13 @@
+../Core/Src/main.c:59:6:__io_putchar	16	static
+../Core/Src/main.c:65:7:jumpAssembly	16	static,ignoring_inline_asm
+../Core/Src/main.c:70:7:SVC_Handler_Main	24	static,ignoring_inline_asm
+../Core/Src/main.c:99:7:print_success	4	static,ignoring_inline_asm
+../Core/Src/main.c:104:7:print_fail	4	static,ignoring_inline_asm
+../Core/Src/main.c:109:7:print_between	4	static,ignoring_inline_asm
+../Core/Src/main.c:114:7:thread_function	4	static,ignoring_inline_asm
+../Core/Src/main.c:161:8:print_continuously	16	static
+../Core/Src/main.c:129:5:main	64	static
+../Core/Src/main.c:215:6:SystemClock_Config	88	static
+../Core/Src/main.c:262:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:295:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:331:6:Error_Handler	4	static,ignoring_inline_asm

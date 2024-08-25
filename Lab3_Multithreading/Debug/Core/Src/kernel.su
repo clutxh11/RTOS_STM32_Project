@@ -1,0 +1,13 @@
+../Core/Src/kernel.c:19:6:SVC_Handler_Main	24	static,ignoring_inline_asm
+../Core/Src/kernel.c:43:6:thread_function	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:48:6:osYield	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:55:6:swap	56	static
+../Core/Src/kernel.c:61:6:pushDown	40	static
+../Core/Src/kernel.c:81:6:pushUp	24	static
+../Core/Src/kernel.c:91:8:popMin	88	static
+../Core/Src/kernel.c:105:6:insert	24	static
+../Core/Src/kernel.c:111:6:buildMinHeap	24	static
+../Core/Src/kernel.c:117:6:osSched	56	static,ignoring_inline_asm
+../Core/Src/kernel.c:134:11:__stackAllocator	16	static
+../Core/Src/kernel.c:144:6:osThreadCreateWithDeadline	24	static
+../Core/Src/kernel.c:177:6:osKernelInit	4	static
